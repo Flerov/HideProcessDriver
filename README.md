@@ -6,3 +6,5 @@ The UniqueProcessId may differ on your machine. Simply change the 'OFFSET'-value
 
 --------------------
 ![alt text](https://github.com/Flerov/HideProcessDriver/blob/misc/FlinkBlink.jpeg)
+![alt text](https://github.com/Flerov/HideProcessDriver/blob/misc/pre.jpeg)
+![alt text](https://github.com/Flerov/HideProcessDriver/blob/misc/post.jpeg)
